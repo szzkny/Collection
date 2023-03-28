@@ -1,8 +1,0 @@
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\obj\Debug\Collection.csproj.SuggestedBindingRedirects.cache
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\bin\Debug\Collection.exe.config
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\bin\Debug\Collection.exe
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\bin\Debug\Collection.pdb
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\obj\Debug\Collection.exe
-C:\Users\szabina.zekany\Desktop\C# Github\Collection\Collection\obj\Debug\Collection.pdb
